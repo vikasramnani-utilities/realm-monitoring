@@ -19,10 +19,9 @@ realm-cli login --api-key="<my api key>" --private-api-key="<my private api key>
 - go inside the directory 
 realm-monitoring
 
-- import realm-monitoring app 
+- import realm-monitoring app, this will prompt you to create new app, finish creation of new app
 ```
 realm-cli import \
-  --app-id=myapp-abcde \
   --path=realm-monitoring \
   --strategy=merge \
   --include-hosting \
