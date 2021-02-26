@@ -1,7 +1,0 @@
-{
-    "name": "CLUSTER_NAMES",
-    "value": [
-        "DatalakeFieldCraft"
-    ],
-    "from_secret": false
-}
