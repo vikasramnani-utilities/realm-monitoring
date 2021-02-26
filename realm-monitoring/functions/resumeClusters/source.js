@@ -22,8 +22,8 @@ exports = async function() {
   const username = context.values.get("GLOBAL_OWNER_PUBLIC_KEY");
   const password = context.values.get("GLOBAL_OWNER_PRIVATE_KEY");
 
-  const projectID = '5bbcd39a9ccf64925a4d15d3'; // production cluster for ASD
-  const clusterNames = ['DatalakeFieldCraft'];
+  const projectID = context.values.get("PROJECT_ID");
+  const clusterNames = context.values.get("CLUSTER_NAMES");
   const body = {paused: false};
   var n = 0;
   var result = "";
