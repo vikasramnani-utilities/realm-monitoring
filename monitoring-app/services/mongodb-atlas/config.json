@@ -2,7 +2,7 @@
     "name": "mongodb-atlas",
     "type": "mongodb-atlas",
     "config": {
-        "readPreference": "primary",
+        "readPreference": "primaryPreferred",
         "wireProtocolEnabled": false
     },
     "version": 1

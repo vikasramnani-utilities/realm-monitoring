@@ -1,5 +1,5 @@
 {
     "name": "GLOBAL_OWNER_PRIVATE_KEY",
-    "value": "GLOBAL_OWNER_PRIVATE_SECRET",
-    "from_secret": false
+    "value": "GLOBAL_OWNER_PRIVATE_KEY_SECRET",
+    "from_secret": true
 }

@@ -6,7 +6,6 @@ exports = async function(clusterName) {
     const replicaSets = context.values.get("REPLICA_SETS");
     
     const processes = await context.functions.execute("getProcessesForProject", username, password, projectId)
-    
     var databases = null;
     var measurements = [];
 
