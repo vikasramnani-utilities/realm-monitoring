@@ -1,0 +1,5 @@
+{
+    "name": "GLOBAL_OWNER_PRIVATE_KEY",
+    "value": "GLOBAL_OWNER_PRIVATE_SECRET",
+    "from_secret": true
+}

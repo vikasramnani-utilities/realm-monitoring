@@ -1,0 +1,9 @@
+{
+    "name": "getHostStatsForClusterrsAndInsert",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/5 * * * *"
+    },
+    "function_name": "getHostStatsForClustersAndInsert",
+    "disabled": true
+}
