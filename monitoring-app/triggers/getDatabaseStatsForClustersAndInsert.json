@@ -2,7 +2,7 @@
     "name": "getDatabaseStatsForClustersAndInsert",
     "type": "SCHEDULED",
     "config": {
-        "schedule": "*/10 * * * *"
+        "schedule": "*/5 * * * *"
     },
     "function_name": "getDatabaseStatsForClustersAndInsert",
     "disabled": true
