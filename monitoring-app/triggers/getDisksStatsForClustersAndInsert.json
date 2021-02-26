@@ -1,0 +1,9 @@
+{
+    "name": "getDisksStatsForClustersAndInsert",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/5 * * * *"
+    },
+    "function_name": "getDisksStatsForClustersAndInsert",
+    "disabled": true
+}

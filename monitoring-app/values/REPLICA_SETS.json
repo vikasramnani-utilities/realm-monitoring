@@ -1,0 +1,7 @@
+{
+    "name": "REPLICA_SETS",
+    "value": [
+        "atlas-jmoxja-shard-0"
+    ],
+    "from_secret": false
+}
