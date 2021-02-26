@@ -2,7 +2,7 @@
     "name": "getHostStatsForClusterrsAndInsert",
     "type": "SCHEDULED",
     "config": {
-        "schedule": "*/10 * * * *"
+        "schedule": "*/5 * * * *"
     },
     "function_name": "getHostStatsForClustersAndInsert",
     "disabled": true
