@@ -19,6 +19,7 @@ exports = async function() {
 
     Learn more about http client here: https://docs.mongodb.com/realm/functions/context/#context-http
   */
+  // new code from github
   const username = context.values.get("GLOBAL_OWNER_PUBLIC_KEY");
   const password = context.values.get("GLOBAL_OWNER_PRIVATE_KEY");
 
