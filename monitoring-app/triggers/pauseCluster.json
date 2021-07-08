@@ -5,5 +5,5 @@
         "schedule": "*/1 * * * *"
     },
     "function_name": "pauseClusters",
-    "disabled": true
+    "disabled": false
 }
