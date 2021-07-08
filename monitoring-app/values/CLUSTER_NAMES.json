@@ -1,7 +1,7 @@
 {
     "name": "CLUSTER_NAMES",
     "value": [
-        "DatalakeFieldCraft"
+        "TestMango"
     ],
     "from_secret": false
 }
