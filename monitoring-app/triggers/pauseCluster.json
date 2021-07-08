@@ -1,0 +1,9 @@
+{
+    "name": "pauseCluster",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *"
+    },
+    "function_name": "pauseClusters",
+    "disabled": true
+}
