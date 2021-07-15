@@ -10,7 +10,7 @@ exports = async function(username, password, projectId, hostId){
     digestAuth:true,
   };
 
-
+console.log('test')
 
   // The response body is a BSON.Binary object. Parse it and return.
   const responseProcess =  await context.http.get(arg)
